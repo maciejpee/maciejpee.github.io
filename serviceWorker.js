@@ -7,7 +7,6 @@ const assets = [
   "/bicycle-512.png",
   "/manifest.json",
   "/serviceWorker.js",
-  ,
 ]
 
 self.addEventListener("install", installEvent => {
