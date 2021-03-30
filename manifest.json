@@ -1,0 +1,22 @@
+{
+  "short_name": "Bicycle",
+  "name": "Bicycle",
+  "description": "Bicycle App",
+  "icons": [
+    {
+      "src":   "bicycle-128.png",
+      "type":  "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src":   "bicycle-512.png",
+      "type":  "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "white"
+}
