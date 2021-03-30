@@ -1,5 +1,4 @@
 {
-  "short_name": "Bicycle",
   "name": "Bicycle",
   "description": "Bicycle App",
   "icons": [
@@ -15,8 +14,8 @@
     }
   ],
   "start_url": "/index.html",
-  "background_color": "blue",
+  "background_color": "white",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "blue"
+  "theme_color": "white"
 }
